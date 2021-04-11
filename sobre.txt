@@ -1,1 +1,10 @@
-TESTE!
+Versão 1.0 (visite sempre meu git para atualiza-la!)
+
+Testada no PARROT-OS GNU/Linux 4.10 x86_64
+
+Testada no DEBIAN 4.10
+
+Testada no Termux
+
+
+Criador: @Fatalsec
