@@ -6,5 +6,11 @@ Testada no DEBIAN 4.10
 
 Testada no Termux
 
+Testada no CENT-OS
+
+Testada no KALI-LINUX
+
 
 Criador: @Fatalsec
+
+Mais informações em: https://github.com/FatalS3C/SocialtoolS#readme
