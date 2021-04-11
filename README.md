@@ -50,4 +50,12 @@
 <br>
 <br>
 <br>
+<div style="background-color:black;">
+<h1 style="color:skyblue">TERMUX</h1><img width="40" src="https://downloadwap.com/thumbs2/android/thumbs/ico/new/5/s/termux-android.jpg">
+<br>
+<img src="https://github.com/FatalS3C/SocialtoolS/blob/main/termux.jpg?raw=true">
+<br>
+<br>
+<br>
+<br>
 </center>
