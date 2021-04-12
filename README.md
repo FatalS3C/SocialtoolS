@@ -58,4 +58,12 @@
 <br>
 <br>
 <br>
+<div style="background-color:black;">
+<h1 style="color:skyblue">DEBIAN</h1><img width="40" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/debian-512.png">
+<br>
+<img src="https://github.com/FatalS3C/SocialtoolS/blob/main/deb.jpg?raw=true">
+<br>
+<br>
+<br>
+<br>
 </center>
